@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbvdeb"
+  site-url: "https://cabra1391.github.io/nbvdeb"
+  description: "pruebas_nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/cabra1391/nbvdeb"
